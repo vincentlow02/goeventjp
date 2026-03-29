@@ -1,6 +1,6 @@
 {
-  "framework": "nextjs",
+  "buildCommand": "cd my-design-system-app && npm run build",
+  "outputDirectory": "my-design-system-app/.next",
   "installCommand": "npm install",
-  "buildCommand": "npm run build",
-  "outputDirectory": "my-design-system-app/.next"
+  "framework": "nextjs"
 }
